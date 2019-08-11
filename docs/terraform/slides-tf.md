@@ -1286,6 +1286,8 @@ Alternatively, you can copy all of the contents of the **main.tf.codeonly** file
 
 Run `terraform apply` again to build out the rest of your lab environment.
 
+Catch: What happened? Any issues? what we can do to solve it?
+
 ???
 Note the dependency in the `data` block that forces terraform to wait until the Virtual Machine is fully provisioned and has a Public IP address before proceeding. Without that `depends_on` parameter the run may sometimes fail. You don't have to highlight this or explain it. This is for the instructor just in case someone asks. Normally it's best to allow Terraform to discover all dependencies automatically.
 
