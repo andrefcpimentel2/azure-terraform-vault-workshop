@@ -20,7 +20,7 @@ HTML comments like this one will show up in the source code, but not in the slid
 
 Welcome to the beginner's guide to Terraform on Azure. This slide deck is written entirely in Markdown language, which means you can make edits or additions, then submit a pull request to add your changes to the master copy. To make edits to the slide deck simply fork this repository:  
 
-https://github.com/scarolan/azure-terraform-vault-workshop  
+https://github.com/andrefcpimentel2/azure-terraform-vault-workshop
 
 edit the Markdown files, and submit a pull request with your changes.
 
