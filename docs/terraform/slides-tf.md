@@ -1979,4 +1979,4 @@ Terraform Azurerm Provider Documentation
 https://www.terraform.io/docs/providers/azurerm/
 
 Link to this Slide Deck  
-https://scarolan.github.io/azure-terraform-vault-workshop/terraform
+https://andrefcpimentel2.github.io/azure-terraform-vault-workshop/terraform/
