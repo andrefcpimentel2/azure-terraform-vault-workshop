@@ -581,7 +581,7 @@ Run the following commands to clone the training repository from GitHub:
 
 ```powershell
 cd ~/Desktop
-git clone https://github.com/scarolan/azure-terraform-vault-workshop
+git clone https://github.com/andrefcpimentel2/azure-terraform-vault-workshop
 cd azure-terraform-vault-workshop
 ```
 
